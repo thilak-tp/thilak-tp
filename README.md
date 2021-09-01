@@ -28,5 +28,5 @@
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilak-tp)](https://github.com/anuraghazra/github-readme-stats)
+![Thilak T P github stats](https://github-readme-stats.vercel.app/api?username=thilak-tp&show_icons=true&hide_border=true
 
