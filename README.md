@@ -1,4 +1,4 @@
-# [![thilak tp header](https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/cover3.jpg)]()
+# [![thilak tp header](https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/cover.jpg)]()
 <p align='center'>
 <a href="https://www.instagram.com/t_h_i_l_a_k/"><img height="30" src="https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/forktail_arts/"><img height="30" src="https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/forktailArts1.png"></a>&nbsp;&nbsp;
