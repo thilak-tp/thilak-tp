@@ -2,7 +2,7 @@
 <p align='center'>
 <a href="https://www.instagram.com/t_h_i_l_a_k/"><img height="30" src="https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/forktail_arts/"><img height="30" src="https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/forktailArts1.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thilak-t-p-25744015a/"><img height="30" src="https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tpthilaktp"><img height="30" src="https://github.com/thilak-tp/thilak-github-profile/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
 
@@ -28,8 +28,7 @@
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilak-tp)](https://github.com/anuraghazra/github-readme-stats)
 
-##Thank You!
+### Thank You!
 
 
